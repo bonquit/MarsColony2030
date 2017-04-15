@@ -1,0 +1,16 @@
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\MarsColony2030.dll
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\MarsColony2030.pdb
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\obj\Debug\MarsColony2030.csprojResolveAssemblyReference.cache
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\obj\Debug\MarsColony2030.App.xaml.g.cs
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\obj\Debug\MarsColony2030.dll
+c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\obj\Debug\MarsColony2030.pdb
+C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\obj\Debug\MarsColony2030.dll.mdb
+C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\MarsColony2030.dll.mdb
