@@ -21,19 +21,31 @@ namespace MarsColony2030.Views
         {
             txtName = new Entry();
             txtName.Placeholder = "Name";
+            txtName.Text = MainPage.user.Name;
 
             genderPicker = new Picker();
             genderPicker.Title = "Gender";
             genderPicker.ItemsSource = new List<string>() { "Male", "Female" };
+            
+            if (MainPage.user.IsMale == true)
+                genderPicker.SelectedItem = "Male";
+            else
+                genderPicker.SelectedItem = "Female";
 
             txtWeight = new Entry();
             txtWeight.Placeholder = "Weight (lbs)";
+            if (MainPage.user.Weight != 0)
+                txtWeight.Text = (MainPage.user.Weight * 2.205).ToString();
 
             txtHeight = new Entry();
             txtHeight.Placeholder = "Height (in)";
+            if (MainPage.user.Height != 0)
+                txtHeight.Text = (MainPage.user.Height / 2.54).ToString();
 
             txtAge = new Entry();
             txtAge.Placeholder = "Age";
+            if (MainPage.user.Age != 0)
+            txtAge.Text = MainPage.user.Age.ToString();
 
             btnSaveChanges = new Button();
             btnSaveChanges.Text = "Save Changes";
@@ -75,14 +87,15 @@ namespace MarsColony2030.Views
             double cal;
             if (MainPage.user.IsMale == true)
             {
-                cal = ((10 * MainPage.user.Weight + 6.25 * MainPage.user.Height - 5 * MainPage.user.Age + 5) * 1.7247);
+                cal = Math.Ceiling(((10 * MainPage.user.Weight + 6.25 * MainPage.user.Height - 5 * MainPage.user.Age + 5) * 1.7247));
             }
             else
             {
-                cal = ((10 * MainPage.user.Weight + 6.25 * MainPage.user.Height - 5 * MainPage.user.Age - 161) * 1.7247);
+                cal = Math.Ceiling(((10 * MainPage.user.Weight + 6.25 * MainPage.user.Height - 5 * MainPage.user.Age - 161) * 1.7247));
             }
 
-            DisplayAlert("Calories Per Day", cal.ToString(), "Ok");
+            MainPage.user.TotalCalories = Convert.ToInt32(cal);
+            Navigation.PopAsync();
         }
     }
 }

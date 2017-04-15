@@ -22,7 +22,6 @@ namespace MarsColony2030.Views
             settingsPage.Title = "Settings";
 
             Children.Add(homePage);
-            Children.Add(settingsPage);
         }
     }
 }

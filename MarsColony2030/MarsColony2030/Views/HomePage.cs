@@ -10,14 +10,41 @@ namespace MarsColony2030.Views
 {
     public class HomePage : ContentPage
     {
+        Label lblName = new Label();
+        StackLayout stack = new StackLayout();
+        ScrollView scroll = new ScrollView();
+        TableView table = new TableView();
+        ImageCell calorieCell = new ImageCell();
+
         public HomePage()
         {
-            Content = new StackLayout
+            lblName.Text = "Hello " + MainPage.user.Name + "!";
+            lblName.TextColor = Color.Black;
+            lblName.HorizontalOptions = LayoutOptions.Center;
+
+            
+            calorieCell.Text = "Calories: " + MainPage.user.CurrentCalories + " out of " + MainPage.user.TotalCalories;
+
+            table.Root = new TableRoot
             {
-                Children = {
-                    new Label { Text = "Home Page" }
+                new TableSection
+                {
+                    calorieCell
                 }
             };
+
+            stack.Children.Add(lblName);
+            stack.Children.Add(table);
+            scroll.Content = stack;
+
+            Content = scroll;
+        }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            lblName.Text = "Hello " + MainPage.user.Name + "!";
+            calorieCell.Text = "Calories: " + MainPage.user.CurrentCalories + " out of " + MainPage.user.TotalCalories;
         }
     }
 }

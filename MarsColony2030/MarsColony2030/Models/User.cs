@@ -21,5 +21,8 @@ namespace MarsColony2030.Models
 
         //Height in inches (will be converted to cm)
         public int Age { get; set; }
+
+        public int TotalCalories { get; set; }
+        public int CurrentCalories { get; set; }
     }
 }
