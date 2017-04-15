@@ -21,7 +21,7 @@ namespace MarsColony2030
             tool.Clicked += Tool_Clicked;
 
             mainPage.ToolbarItems.Add(tool);
-            mainPage.Title = "Schedulamizer";
+            mainPage.Title = "In-Flight Manager";
 
             MainPage = new NavigationPage(mainPage);
         }

@@ -16,12 +16,17 @@ namespace MarsColony2030.Views
         {
 
             HomePage homePage = new HomePage();
-            homePage.Title = "Home";
+            homePage.Title = "Diet";
 
-            SettingsPage settingsPage = new SettingsPage();
-            settingsPage.Title = "Settings";
+            SchedulePage schedulePage = new SchedulePage();
+            schedulePage.Title = "Schedule";
+
+            TravelPage travelPage = new TravelPage();
+            travelPage.Title = "Travel";
 
             Children.Add(homePage);
+            Children.Add(schedulePage);
+            Children.Add(travelPage);
         }
     }
 }

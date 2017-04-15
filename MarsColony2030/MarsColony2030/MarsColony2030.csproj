@@ -40,9 +40,13 @@
     </Compile>
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\CaloriePage.cs" />
+    <Compile Include="Views\EventPage.cs" />
     <Compile Include="Views\HomePage.cs" />
     <Compile Include="Views\MainPage.cs" />
+    <Compile Include="Views\SchedulePage.cs" />
     <Compile Include="Views\SettingsPage.cs" />
+    <Compile Include="Views\TravelPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="App.xaml">
