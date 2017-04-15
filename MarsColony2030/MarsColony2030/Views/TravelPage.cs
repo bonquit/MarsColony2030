@@ -37,10 +37,19 @@ namespace MarsColony2030.Views
             distStack.Children.Add(lblMars);
 
             distanceCell.Text = "Distance to Mars: 54,000,000 km";
+            distanceCell.ImageSource = "Distance.png";
+
             speedCell.Text = "Travel speed: 25,000 km/hr";
+            speedCell.ImageSource = "Speed.png";
+
             timeCell.Text = "Time to Mars: 3000 hrs";
+            timeCell.ImageSource = "Time.png";
+
             temperatureCell.Text = "Spacecraft temp: 72 F";
+            temperatureCell.ImageSource = "Temperature.png";
+
             fuelCell.Text = "Fuel: 90%";
+            fuelCell.ImageSource = "Fuel.png";
 
             table.Root = new TableRoot
             {

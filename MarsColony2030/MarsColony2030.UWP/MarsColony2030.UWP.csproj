@@ -108,6 +108,17 @@
     <None Include="MarsColony2030.UWP_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Calendar2.png" />
+    <Content Include="Assets\Calories.png" />
+    <Content Include="Assets\Distance.png" />
+    <Content Include="Assets\Earth.png" />
+    <Content Include="Assets\Fuel.png" />
+    <Content Include="Assets\Home.png" />
+    <Content Include="Assets\icon.png" />
+    <Content Include="Assets\Rocket.png" />
+    <Content Include="Assets\Speed.png" />
+    <Content Include="Assets\Temperature.png" />
+    <Content Include="Assets\Time.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-100.png" />
     <Content Include="Assets\LockScreenLogo.scale-125.png" />

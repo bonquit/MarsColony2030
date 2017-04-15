@@ -14,15 +14,17 @@ namespace MarsColony2030.Views
         public static User user = new User();
         public MainPage()
         {
-
             HomePage homePage = new HomePage();
-            homePage.Title = "Diet";
+            homePage.Title = "Home";
+            homePage.Icon = "Home.png";
 
             SchedulePage schedulePage = new SchedulePage();
             schedulePage.Title = "Schedule";
+            schedulePage.Icon = "Calendar2.png";
 
             TravelPage travelPage = new TravelPage();
             travelPage.Title = "Travel";
+            travelPage.Icon = "Rocket.png";
 
             Children.Add(homePage);
             Children.Add(schedulePage);

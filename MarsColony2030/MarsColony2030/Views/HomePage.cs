@@ -27,6 +27,7 @@ namespace MarsColony2030.Views
             lblName.FontSize = 22;
             lblName.HorizontalOptions = LayoutOptions.Center;
 
+            calorieCell.ImageSource = "Calories.png";
             calorieCell.Tapped += CalorieCell_Tapped;
             calorieCell.Text = "Calories for today: " + MainPage.user.CurrentCalories + " out of " + MainPage.user.TotalCalories;
 
@@ -73,6 +74,7 @@ namespace MarsColony2030.Views
         private void BtnAddCalories_Clicked(object sender, EventArgs e)
         {
             MainPage.user.CurrentCalories += Convert.ToInt32(txtCalories.Text);
+            calorieCell.Text = "Calories: " + MainPage.user.CurrentCalories + " out of " + MainPage.user.TotalCalories;
             Navigation.PopAsync();
         }
     }

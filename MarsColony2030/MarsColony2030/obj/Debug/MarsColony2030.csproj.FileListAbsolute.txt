@@ -14,3 +14,5 @@ c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColo
 c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\obj\Debug\MarsColony2030.pdb
 C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\obj\Debug\MarsColony2030.dll.mdb
 C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\MarsColony2030.dll.mdb
+C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\obj\Debug\MarsColony2030.dll.mdb
+C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\MarsColony2030.dll.mdb

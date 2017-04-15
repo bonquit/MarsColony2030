@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>0891c1be-d189-4dbb-8de5-1d36399ae622</PackageIdentityName>
     <PackageIdentityPublisher>CN=tomonquit</PackageIdentityPublisher>
-    <IntermediateOutputPath>c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>4275678D1EC7A46B81FE6F3B33F6B1A99212C6BCA40A1121461095054A597FFD</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>0891c1be-d189-4dbb-8de5-1d36399ae622_1.0.0.0_x86__1xr92yxtg57cw</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>0891c1be-d189-4dbb-8de5-1d36399ae622_1xr92yxtg57cw!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-15T14:56:07.065</Modified>
+      <Modified>2017-04-15T23:35:50.722</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\MarsColony2030.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\MarsColony2030.UWP.exe">
       <PackagePath>entrypoint\MarsColony2030.UWP.exe</PackagePath>
-      <Modified>2017-04-15T14:55:32.913</Modified>
+      <Modified>2017-04-15T23:35:35.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tomonquit\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -511,165 +511,209 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2017-03-29T18:22:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\MarsColony2030.dll">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\bin\Debug\MarsColony2030.dll">
       <PackagePath>MarsColony2030.dll</PackagePath>
-      <Modified>2017-04-15T14:36:48.143</Modified>
+      <Modified>2017-04-15T23:10:57.793</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2017-04-15T14:21:54.954</Modified>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Calendar2.png">
+      <PackagePath>Assets\Calendar2.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.778</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\LockScreenLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Calories.png">
+      <PackagePath>Assets\Calories.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Distance.png">
+      <PackagePath>Assets\Distance.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Earth.png">
+      <PackagePath>Assets\Earth.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Fuel.png">
+      <PackagePath>Assets\Fuel.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Home.png">
+      <PackagePath>Assets\Home.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\icon.png">
+      <PackagePath>Assets\icon.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Rocket.png">
+      <PackagePath>Assets\Rocket.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Speed.png">
+      <PackagePath>Assets\Speed.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Temperature.png">
+      <PackagePath>Assets\Temperature.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Time.png">
+      <PackagePath>Assets\Time.png</PackagePath>
+      <Modified>2017-04-15T23:19:28.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
       <Modified>2017-04-15T14:21:54.674</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\LockScreenLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
       <Modified>2017-04-15T14:21:54.692</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\LockScreenLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
       <Modified>2017-04-15T14:21:54.701</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-04-15T14:21:54.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\LockScreenLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
       <Modified>2017-04-15T14:21:54.717</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.726</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.750</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.759</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.767</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.792</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.800</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.828</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.837</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.845</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.878</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.887</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.870</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.896</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.904</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.913</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.921</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.930</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-15T14:21:54.938</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\MarsColony2030.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2017-04-15T14:21:54.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\MarsColony2030.UWP.xr.xml">
       <PackagePath>MarsColony2030.UWP.xr.xml</PackagePath>
       <Modified>2017-04-15T14:55:29.393</Modified>
     </AppxPackagedFile>
@@ -685,14 +729,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
       <Modified>2017-03-29T18:22:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-15T14:55:57.652</Modified>
+      <Modified>2017-04-15T23:35:48.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\Core\MarsColony2030.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\bin\x86\Debug\Core\MarsColony2030.UWP.exe">
       <PackagePath>MarsColony2030.UWP.exe</PackagePath>
-      <Modified>2017-04-15T14:56:07.020</Modified>
+      <Modified>2017-04-15T23:35:50.706</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

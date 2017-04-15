@@ -1,2 +1,2 @@
-c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\MarsColony2030.UWP.csproj;x86
-c:\users\tomonquit\documents\visual studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\MarsColony2030.csproj;neutral
+C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030.UWP\MarsColony2030.UWP.csproj;x86
+C:\Users\tomonquit\Documents\Visual Studio 2017\Projects\MarsColony2030\MarsColony2030\MarsColony2030\MarsColony2030.csproj;neutral

@@ -14,10 +14,9 @@ namespace MarsColony2030
         {
             InitializeComponent();
 
-            
-
             ToolbarItem tool = new ToolbarItem();
             tool.Text = "Settings";
+            tool.Icon = "Settings.png";
             tool.Clicked += Tool_Clicked;
 
             mainPage.ToolbarItems.Add(tool);
