@@ -19,7 +19,9 @@ namespace MarsColony2030.Views
                     {
                         FontSize = 25,
                         TextColor = Color.Black,
-                        Text = text
+                        Text = text,
+                        HorizontalOptions = LayoutOptions.CenterAndExpand,
+                        VerticalOptions = LayoutOptions.CenterAndExpand
                     }
                 }
             };

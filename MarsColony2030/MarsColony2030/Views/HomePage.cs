@@ -14,6 +14,8 @@ namespace MarsColony2030.Views
         StackLayout stack = new StackLayout();
         ScrollView scroll = new ScrollView();
         TableView table = new TableView();
+        ImageCell earthCell = new ImageCell();
+        ImageCell marsCell = new ImageCell();
         ImageCell calorieCell = new ImageCell();
 
         Label lblCurrentCalories = new Label();
@@ -31,10 +33,18 @@ namespace MarsColony2030.Views
             calorieCell.Tapped += CalorieCell_Tapped;
             calorieCell.Text = "Calories for today: " + MainPage.user.CurrentCalories + " out of " + MainPage.user.TotalCalories;
 
+            earthCell.ImageSource = "Earth.png";
+            earthCell.Text = "Earth Weight: " + (MainPage.user.Weight * 2.205) + " lbs";
+
+            marsCell.ImageSource = "icon.png";
+            marsCell.Text = "Mars Weight: " + Math.Ceiling(((Math.Ceiling(MainPage.user.Weight * 2.205) / 9.81) * 3.711)) + " lbs";
+
             table.Root = new TableRoot
             {
                 new TableSection
                 {
+                    earthCell,
+                    marsCell,
                     calorieCell
                 }
             };
@@ -69,6 +79,8 @@ namespace MarsColony2030.Views
             base.OnAppearing();
             lblName.Text = "Hello " + MainPage.user.Name + "!";
             calorieCell.Text = "Calories: " + MainPage.user.CurrentCalories + " out of " + MainPage.user.TotalCalories;
+            earthCell.Text = "Earth Weight: " + (MainPage.user.Weight * 2.205) + " lbs";
+            marsCell.Text = "Mars Weight: " + Math.Ceiling(((Math.Ceiling(MainPage.user.Weight * 2.205) / 9.81) * 3.711)) + " lbs";
         }
 
         private void BtnAddCalories_Clicked(object sender, EventArgs e)
